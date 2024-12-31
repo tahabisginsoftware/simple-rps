@@ -1,29 +1,16 @@
-![simpleRPS](https://github.com/tahabisginsoftware/simpleRPS/blob/master/assets/github%20cover.png "simpleRPS")
+![simpleRPS](https://github.com/tahabisginsoftware/simple-rps/blob/master/assets/github%20cover.png "simpleRPS")
 
 Simple RPS.<br>
-Made by [Taha Bisgin](https://tbsvsn.com).
-
-# Setup
-
-Clone the repository
-Via HTTPS: `git clone https://github.com/tahabisginsoftware/simpleRPS.git`
-
-Via SSH: `git clone git@github.com:tahabisginsoftware/simpleRPS.git`
-
-iOS & Android package installation: `npm install` / `yarn add`
-
-Start server: `npm start` / `yarn start`
-
-Run app: `npx expo run android` / `npx expo ios`
-
-Alternatively, you can start both the server and the app up by: `npm run android` / `npm run ios`
+Made with React Native <br>
+using Expo CLI.
 
 # Download
 
 Download Simple RPS [here](https://github.com/tahabisginsoftware/simpleRPS/releases/tag/release).
 
 # Screenshots
-<img align="left" alt="rps1" src="https://github.com/tahabisginsoftware/simpleRPS/blob/master/assets/screen_one.png" width="300"/>
-<img align="left" alt="rps2" src="https://github.com/tahabisginsoftware/simpleRPS/blob/master/assets/screen_two.png" width="300"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-©TahaBisginSoftware, all rights reserved.
+<img align="left" alt="rps1" src="https://github.com/tahabisginsoftware/simple-rps/blob/master/assets/screen_one.png" width="200"/>
+<img align="left" alt="rps2" src="https://github.com/tahabisginsoftware/simple-rps/blob/master/assets/screen_two.png" width="200"/>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+[©tahabisgin.](https://tbsvsn.com) All rights reserved.
